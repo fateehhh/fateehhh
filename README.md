@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm M. Fatih Al Ghifary</h1>
 
 <p align="center">
-  🎓 Student at <strong>Politeknik Negeri Malang</strong><br>
-  💻 Passionate about <strong>Web Development</strong> & <strong>Machine Learning</strong>
+  Student at <strong>Politeknik Negeri Malang</strong><br>
+  Passionate about <strong>Web Development</strong> & <strong>Machine Learning</strong>
 </p>
 
 ---
@@ -53,16 +53,13 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/m-fatih-al-ghifary" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:yourname@email.com">
+  <a href="mailto:tifatih18@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“Code, Learn, and Build — one step at a time.”</i> ✨
-</p>
