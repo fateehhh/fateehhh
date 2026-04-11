@@ -12,8 +12,15 @@ Passionate tentang **Web Development** & **Machine Learning**
 </div>
 
 ---
+## ABOUT ME
+<div>
+  <h5>
+    An Informatics Engineering student at Politeknik Negeri Malang with strong expertise in web application development and user interface design. Skilled in Front-End development using HTML, CSS, SCSS, JavaScript, and React, with experience building responsive and interactive user interfaces. Proficient in Back-End development using PHP and Laravel, as well as managing databases with MySQL. Familiar with modern web development practices using Next.js as a framework for building scalable and high-performance applications. Possesses strong communication and teamwork abilities, with a commitment to continuous learning and contributing to innovative digital solutions in the technology field.
+  </h5>
+</div>
 
-## 🚀 Tech Stack
+----
+## 🚀 TECH STACK
 
 **Frontend**
 
@@ -48,7 +55,7 @@ Passionate tentang **Web Development** & **Machine Learning**
 
 ---
 
-## 🛠️ Tools
+## TOOLS
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
@@ -57,16 +64,10 @@ Passionate tentang **Web Development** & **Machine Learning**
 
 ---
 
-## 📊 GitHub Stats
+## GITHUB STATS
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=fateehhh&theme=tokyonight&hide_border=true">
   </a>
-</div>
-
----
-
-<div align="center">
-  <sub>💡 Always learning, always building.</sub>
 </div>
